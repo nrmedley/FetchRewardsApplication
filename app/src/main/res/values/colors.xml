@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#111111</color>
+    <color name="colorPrimaryDark">#111111</color>
+    <color name="colorPrimaryLighter">#222222</color>
+    <color name="colorPrimaryLight">#333333</color>
+    <color name="colorAccent">#1DE9B6</color>
+
+    <!-- COMMON -->
+    <color name="white">#ffffff</color>
+    <color name="light_gray">#6f6f6f</color>
+    <color name="gray">#555555</color>
+    <color name="dark_gray">#272727</color>
+    <color name="darker_gray">#121212</color>
+    <color name="green">#92a844</color>
+    <color name="black_overlay">#ff1f2122</color>
+    <color name="light_blue">#33b5e5</color>
+    <color name="black">#000000</color>
+    <color name="titleAccent">#8B2D2D</color>
+    <color name="cardviewColor">#262626</color>
+</resources>
